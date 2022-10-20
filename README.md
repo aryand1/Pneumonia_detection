@@ -1,4 +1,7 @@
 # Pneumonia_detection
+
+Hey I am Aryan, I am starting my series of project with this one.
+
 Image classification problem : Detecting pneumonia using chest X-ray
 
 **Problem Statement**: Detection of infalamation or fluid(pneumonia) in chest x-ray. 
