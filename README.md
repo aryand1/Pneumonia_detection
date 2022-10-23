@@ -1,6 +1,6 @@
 # Pneumonia_detection
 
-Hey I am Aryan, I am starting my series of project with this one.
+Hey I am Aryan, I am starting my series of projects with this one.
 
 Image classification problem : Detecting pneumonia using chest X-ray
 
